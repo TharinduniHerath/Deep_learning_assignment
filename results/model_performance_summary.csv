@@ -1,0 +1,14 @@
+Metric,Value
+Test Accuracy,85.44%
+Validation Accuracy,85.46%
+Precision (Positive),0.8492
+Recall (Positive),0.8618
+F1-Score (Positive),0.8555
+Precision (Negative),0.8597
+Recall (Negative),0.8470
+F1-Score (Negative),0.8533
+ROC-AUC Score,0.9278
+Average Precision,0.9220
+Total Parameters,"1,160,901"
+Training Epochs,9
+Best Epoch,6
